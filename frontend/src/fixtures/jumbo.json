@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Aproveite na sua TV.",
+    "subTitle": "Assista em smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players e muito mais.",
+    "image": "/images/misc/home-tv.jpg",
+    "alt": "Tiger King na Zomify",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "title": "Baixe seus programas para assistir em movimento.",
+    "subTitle": "Economize seus dados e assista todos os seus favoritos offline.",
+    "image": "/images/misc/home-mobile.jpg",
+    "alt": "Assista no celular",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "title": "Assista em qualquer lugar.",
+    "subTitle": "Transmita filmes e programas de TV ilimitados no seu telefone, tablet, laptop e TV sem pagar mais.",
+    "image": "images/misc/home-imac.jpg",
+    "alt": "Money Heist na Zomify",
+    "direction": "row"
+  }
+]
+  
