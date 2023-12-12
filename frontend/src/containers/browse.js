@@ -119,7 +119,8 @@ export default function BrowseContainer({ slides }) {
             <Card.Feature category={category}>
               <Player>
                 <Player.Button />
-                <Player.Video src="/videos/bunny.mp4" />
+                <Player.Video src={`/videos/joker.mp4`} />
+                console.log(slideItem.data.slug)
               </Player>
             </Card.Feature>
           </Card>
